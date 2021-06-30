@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView Images And Video</string>
+    <string name="access_permission_is_required">Access permission is required</string>
+    <string name="add_medias">Add medias</string>
+</resources>
